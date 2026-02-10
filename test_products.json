@@ -1,0 +1,37 @@
+[
+  {
+    "name": "Mountain-100 Silver, 38",
+    "type": "From dataset",
+    "expected": "High price ($2000+)"
+  },
+  {
+    "name": "Road Bike Carbon",
+    "type": "Modern road bike",
+    "expected": "High price"
+  },
+  {
+    "name": "Kids Bike 20 inch",
+    "type": "Children's bike",
+    "expected": "Medium price"
+  },
+  {
+    "name": "Bike Repair Kit",
+    "type": "Accessory",
+    "expected": "Low price"
+  },
+  {
+    "name": "Electric Mountain Bike",
+    "type": "E-bike with mountain",
+    "expected": "Very high price"
+  },
+  {
+    "name": "Helmet",
+    "type": "Very short name",
+    "expected": "Low price"
+  },
+  {
+    "name": "Professional Road Racing Bicycle Carbon Fiber 2024 Edition",
+    "type": "Very long name",
+    "expected": "Highest price"
+  }
+]
